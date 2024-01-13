@@ -1,18 +1,18 @@
 {
-    "name": "MiraiBypassD-Jukie",
-    "version": "1.2.14",
+    "name": "X2BypassHamim",
+    "version": "0.1",
     "description": "A simple Facebook Messenger Bot made by me(CatalizCS) and my brother SpermLord.",
-    "main": "mirai.js",
+    "main": "H4M1MX2.js",
     "scripts": {
         "start": "node index",
         "login": "node login",
-        "test": "node --trace-warnings --use_strict --async-stack-traces mirai"
+        "test": "node --trace-warnings --use_strict --async-stack-traces x2"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/D-Jukie/miraiv2.git"
+        "url": "git+https://github.com/TanzidAhmadHamim/X2.git"
     },
-    "author": "D-Jukie",
+    "author": "Hamim X2",
     "license": "GPL-3.0",
     "dependencies": {
         "simple-youtube-api": "",
